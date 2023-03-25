@@ -3,9 +3,10 @@
 ## 主要任務: NLP Problem Investigation
 
 1. Pick one NLP task from the list below.
-- POS tagging: noun, verb, adjective, other.
-- NER: 人, 時, 地, 物, other.
-- Sentiment analysis: positive, negative, neutral.
+    - Summary
+    - Coreference
+    - NER: 人, 時, 地, 物, other.
+    - Sentiment analysis: positive, negative, neutral.
 
 2. Answer the following questions.
 - What is the problem we are trying to solve?
