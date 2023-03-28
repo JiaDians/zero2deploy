@@ -19,8 +19,6 @@
 - What are the common approaches (algorithm/model) to solve this problem? 
   - Note: You will need to pick one approach and try it in the latter stage.
 
-3. Make a presentation slide and present your findings.
-
 
 ## 額外任務: Python 專案管理
 
