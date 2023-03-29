@@ -22,12 +22,12 @@ Other important topics related to database system are:
 2. What is SQL injection attack?
 
 Python tools for SQL database:
+- pymongo
 - pymysql
 - sqlalchemy
-- pymongo
 
 ## Task
-- Store the data you crawled in a **MySQL** database.
+- Store the data you crawled in a **mongoDB** database.
 - Understand how to perform CRUD to your data in your datbase.
 - Understand what is SQL injection and how to prevent.
-- Understand how to perform database migration in MySQL.
+- Understand how to perform database migration in mongoDB.
