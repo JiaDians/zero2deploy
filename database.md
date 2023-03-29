@@ -23,8 +23,9 @@ Other important topics related to database system are:
 
 Python tools for SQL database:
 - pymongo
+- Flask-MongoAlchemy
 - pymysql
-- sqlalchemy
+- SQLAlchemy
 
 ## Task
 - Store the data you crawled in a **mongoDB** database.
