@@ -32,3 +32,6 @@ Python tools for SQL database:
 - Understand how to perform CRUD to your data in your datbase.
 - Understand what is SQL injection and how to prevent.
 - Understand how to perform database migration in mongoDB.
+
+## Additional Resource
+[docker webgoat/webgoat-7.1](https://hub.docker.com/r/webgoat/webgoat-7.1/)
